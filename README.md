@@ -16,3 +16,10 @@ Tämä skripti on tarkoitettu Shelly 3 Pro -laitteen kanssa käytettäväksi. Sk
 
 ## Huomioitavaa
 - Ole varovainen muokatessasi skriptiä ja varmista, että ymmärrät sen toiminnan ennen sen käyttöä.
+
+
+## Tekijät
+
+- [Aaron Kairavuo](https://www.github.com/Arskakoo)
+- [Samuel Nummela](https://www.github.com/Saow)
+
